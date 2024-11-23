@@ -1,0 +1,12 @@
+node_modules
+.env
+package.json
+yarn.lock
+.cache
+artifacts
+typechain
+README.md   
+.*
+coverage
+coverage.json
+img

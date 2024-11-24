@@ -31,7 +31,7 @@ cloudinary.config({
 })
 
 //connecting to databse
-connectDB();
+ connectDB();
 
 // middlewares 
 app.use(express.json({ limit: "50mb" }));
